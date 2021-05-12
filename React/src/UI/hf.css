@@ -1,0 +1,27 @@
+.Header {
+    position: relative;
+    height: 80px;
+    width: 100%;
+    background-color: skyblue;
+    color: azure;
+    text-align: center;
+    font-size: 50px;
+   }
+   
+   .Footer {
+    height: 30px;
+    width: 97%;
+    position: fixed;
+    bottom: 0;
+    background-color: skyblue;
+    text-align: center;
+    font-size: 20px;
+    color: azure;
+   }
+
+   .headerBtn{
+    float:right;
+    margin-top: 25px;
+    font-size: 16px;
+    color : white;
+   }

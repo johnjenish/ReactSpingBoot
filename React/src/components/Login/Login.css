@@ -1,0 +1,56 @@
+body {
+    padding: 20px;
+    letter-spacing: 1px;
+  }
+
+  h1{
+      color: red;
+  }
+  
+  .active {
+    font-weight: bold;
+  }
+  
+  .registerForm {
+    margin-top: 20px;
+    background-color: red;
+  }
+  
+  .form-details {
+    margin-top: 20px;
+  }
+  
+  .form-details > div {
+    margin: 10px;
+  }
+  
+  .loginBtn{
+      width : 50%;
+      float : left;
+      margin-left: 15px;
+  }
+
+  .regBtn{
+    width : 50%;
+    float : right
+}
+
+input {
+    background-repeat: no-repeat;
+    background-position: 6px;
+    border: 1px solid #dadada;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    width: 310px;
+    height: 30px;
+    font-size: 14px;
+  }
+  
+
+  .signUp{
+    padding-left: 70px;
+    cursor: pointer;
+    color: #007bff;
+    text-decoration: underline;
+  }

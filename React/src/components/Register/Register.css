@@ -1,0 +1,26 @@
+body {
+    padding: 20px;
+    letter-spacing: 1px;
+  }
+
+  h1{
+      color: red;
+  }
+  
+  .active {
+    font-weight: bold;
+  }
+  
+  .registerForm {
+    margin-top: 20px;
+    background-color: red;
+  }
+  
+  .form-details {
+    margin-top: 20px;
+  }
+  
+  .form-details > div {
+    margin: 10px;
+  }
+  
