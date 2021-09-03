@@ -12,4 +12,4 @@ Check on a branch
 git checkout branchname. -- pulls the branch 
 git branch -- checks branch 
 
-
+git merge origin/branch -- merges the new branch code in local 
