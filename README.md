@@ -16,8 +16,15 @@ git branch -- checks branch
 git merge origin/branch -- merges the new branch code in local 
 
 git branch -d branch name — delete the branch 
-
-git checkout -b branch name organ/branchname -- pulls the branch with latest code.
-
+ 
 git status -- check the file which has to be pushed 
 
+git checkout develop 
+git fetch
+Git pull 
+Git checkout ur branch 
+Git merge origin/develop
+
+Git branch -d branch name — delete the branch 
+Git checkout  branch name organ/branchname — get exiting branch 
+Git checkout -b branchanme — create new branch branch 
